@@ -11,7 +11,8 @@ looks it up in a path (for example: /Contents, a folder made by Rekordbox) and t
 to a chosen destination folder.
 
 
-#Instructions:
+# Instructions:
+
 1. In Rekordbox, right click the chosen playlist and export to KUVO text file
 2. open the text file with EXCEL, it will prompt some messages, keep it on deafults
 3. copy the TRACK TITLE row to a new excel file
