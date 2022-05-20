@@ -1,7 +1,9 @@
 # Rekordbox-playlist-to-folder-copy-files-
+
 Helps to move out of Rekordbox with python by copying songs from made playlists in Rekordbox to new folders.
 
-#Motivation
+# Motivation
+
 This project was made by me after trying to move out of Rekordbox and had
 to move each one of my songs, one by one to a new playlist.
 wasn't going to do that hard work so i made this program, it recives the name each song
