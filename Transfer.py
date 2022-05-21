@@ -14,7 +14,7 @@
 # 6. Enjoy!
 
 # Note: it might not find all, but it finds at least 90% of the songs which leaves you
-# with as little work as possible
+# with as little work as possible. plus, it prints the songs that were not found.
 
 # To start, activate main()
 
